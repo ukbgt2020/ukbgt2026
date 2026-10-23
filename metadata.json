@@ -1,0 +1,6 @@
+{
+  "name": "UK Bangla Global Trade",
+  "description": "Premier international trading house based in Chattogram, Bangladesh. Specializing in global import and export of footwear, leather goods, towels, tea, tobacco, jute goods, jute yarn, and industrial batteries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
